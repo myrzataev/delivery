@@ -46,15 +46,6 @@
 
 ```
 
-## API Root Endpoint
-
-`https://localhost:8008/`
-
-`http://localhost:8008/swagger-ui.html`
-
-### Sample API Response for Customer Login
-
-`POST   localhost:8008/login`
 
 
 
